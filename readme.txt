@@ -1,3 +1,5 @@
+java.version 11
+
 #Builds the app
 mvn clean install
 
